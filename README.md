@@ -18,3 +18,11 @@
     ```url
     https://localhost:5001/api/values
     ```
+
+## やることリスト(順不同)
+
+- DB構築(Postgresql)
+- モデルクラス作成
+- Docker化
+- Viewの作成(cshtml?)
+- SPA化(React)
