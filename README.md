@@ -26,3 +26,13 @@
 - Docker化
 - Viewの作成(cshtml?)
 - SPA化(React)
+
+## 構成
+
+- Server
+  - ASP .Net Core
+- Client
+  - React(将来的には+Redux)
+  - Typescript
+- DB
+  - Postgresql
