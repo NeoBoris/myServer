@@ -5,18 +5,18 @@
 - .Net Core SDKのインストール
   - [.Net Core SDK](https://dotnet.microsoft.com/download)
 
-- ASP .Net Core用プロジェクトの作成
+- ASP .Net Core用プロジェクトの作成(React + Redux)
 
   ```command
-  dotnet new webapi -n myServer
+  dotnet new reactredux
   ```
 
 - 動作確認
   - vscodeでプロジェクトを開き、デバッグ実行
-  - アクセスしてデータが表示されればOK
+  - アクセスしてHello, World!!が表示されればOK
 
     ```url
-    https://localhost:5001/api/values
+    https://localhost:5001/
     ```
 
 - db
